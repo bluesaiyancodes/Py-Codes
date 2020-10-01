@@ -4,3 +4,6 @@ print("Hello World")
     This is the second line 
     and this is the third"""
 print("Multiple comment lines skipped")
+print("Multiple comment lines skipped")
+print("Multiple comment lines skipped")
+print("Multiple comment lines skipped by Bishal")
