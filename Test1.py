@@ -14,3 +14,7 @@ print("chnages by pravakar")
 
 print("Changes by Neha")
 
+print("Sukcahi hana dul set set thasot")
+bi = 2
+alpha = 6 * 4/bi
+print(alpha)
