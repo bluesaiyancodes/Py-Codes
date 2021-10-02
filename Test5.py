@@ -7,5 +7,5 @@ if __name__ == '__main__':
         if arr[k]>arr[k+1]:
             print(arr[k+1])
             exit()
-
+print("End of Program")
 
