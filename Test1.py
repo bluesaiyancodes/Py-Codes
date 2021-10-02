@@ -14,3 +14,8 @@ print("chnages by pravakar")
 
 print("Changes by Neha")
 
+x = 2
+x += 10
+x = x*2
+print(x)
+
